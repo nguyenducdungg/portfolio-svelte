@@ -1,0 +1,67 @@
+@use 'module/variable';
+@use 'module/font';
+@use 'module/util';
+
+html{
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+}
+body{
+  overflow: hidden;
+}
+:root{
+  font-size: 2.3vh;
+}
+h1{
+  font-size: 18vw;
+  font-weight: 400;
+  line-height: .4;
+  margin:0;
+  text-transform: uppercase;
+  display: block;
+  letter-spacing: -.07em;
+  white-space: nowrap;
+}
+h2{
+  font-size: 3.167rem;
+  font-weight: 400;
+  margin:0;
+  line-height: .9;
+}
+h3{
+  font-size: 2.375rem;
+  font-weight: 400;
+  margin:0;
+}
+h4{
+  font-size: 1.79em;
+  font-weight: 400;
+  margin:0;
+}
+h5{
+  font-size: 1.33em;
+  font-weight: 500;
+  margin:0;
+}
+p{
+  font-size: 1em;
+  font-weight: 400;
+  margin:0;
+}
+h6{
+  font-size: .75em;
+  font-weight: 400;
+  margin:0;
+}
+$black: #000000;
+$white: #ffffff;
+
+
+.black{
+  color: $white;
+  background-color: $black;
+}
+.white{
+  color: $black;
+  background-color: $white;
+}

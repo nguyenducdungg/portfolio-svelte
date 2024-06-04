@@ -1,0 +1,19 @@
+As an interviewer, you remember the first time you met Dung on a blustery autumn day. There was something about him that
+immediately caught your attention - a spark of creativity and passion that seemed to emanate from within. Over time, you
+'ve come to know Dung as both an artist and a front-end developer, and you've been impressed by his ability to merge his
+artistic vision with technical skill. In this interview, you're excited to explore the depths of Dung's creative process
+and learn more about the inspiration behind his work. You believe that his perspective on the world and his unique
+approach to art and technology will be an inspiration to others, and you're eager to share his story with a wider
+audience. Through your conversation with Dung, you hope to capture the essence of what makes his work so special and how
+ it reflects his personality and worldview.
+
+What inspired you to pursue front-end development, and could you share a bit about your journey to entering this field?
+
+From a young age, I always had a passion for the arts. I grew up in a traditional household, where my parents encouraged
+me to pursue a more traditional career path, such as engineering or law. However, I knew that my true calling was in the
+ creative world, and I was drawn to art in all its forms. When I was younger, I dreamed of becoming a comic book artist,
+ but I soon realized how difficult it was to make a living in that field.
+
+It was then that I discovered front-end development. I saw how this field allowed me to combine my love of art and design
+with the practical skills of coding and programming. I was inspired by the idea that I could use technology to bring
+my creative visions to life, and I knew that front-end development was the perfect path for me.
